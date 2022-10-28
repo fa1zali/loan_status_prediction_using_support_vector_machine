@@ -2,7 +2,7 @@
 26th Oct 2022
 
 ### Project Title
-**Loan Status Prediction using ML**
+**Loan Status Prediction using Support Vector Machine**
 
 ### Description
 Support Vector Machine is a supervised classification algorithm where we draw a line between two different categories to differentiate between them.
